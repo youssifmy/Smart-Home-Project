@@ -1,0 +1,3 @@
+D:/SW-Course Content/Advanced SW Projects/Smart Home/build/CMakeFiles/SmartHome.dir
+D:/SW-Course Content/Advanced SW Projects/Smart Home/build/CMakeFiles/edit_cache.dir
+D:/SW-Course Content/Advanced SW Projects/Smart Home/build/CMakeFiles/rebuild_cache.dir
